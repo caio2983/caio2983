@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a developer focused on building full-stack applications with **React** and **Node.js**.
+
+I’ve worked with technologies like **Angular**, **Python**, **Java (Spring)**, and **machine learning tools**. I enjoy solving problems through hands-on experimentation and creative thinking — especially when traditional approaches fall short.
+
+I'm always exploring new ways to improve my code and learn more about the technologies I use.
+
+
+
 <!--
 **caio2983/caio2983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
