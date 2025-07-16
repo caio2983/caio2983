@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a developer focused on building full-stack applications with **React** and **Node.js**.
+I'm a developer focused on building full-stack applications with **React** ,**Node.js**, NextJS and NestJS.
 
 I’ve worked with technologies like **Angular**, **Python**, **Java (Spring)**, and **machine learning tools**. I enjoy solving problems through hands-on experimentation and creative thinking — especially when traditional approaches fall short.
 
